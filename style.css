@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+
+}
+
+
+#hero {
+    background-image: url("Jesus\ Loves\ You\ Jesus\ Hoodie\ Jesus\ Sweatshirt\ Christian\ Hoodie\ Christian\ Sweatshirt\ Trendy\ Hoodie\ Bible\ Verse\ Shirt\ Christian\ Apparel.jpg");
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#hero h4 {
+    padding-bottom: 15px;
+    color: beige;
+}
+
+#hero h1 {
+    color: beige;
+}
+
+#hero h3 {
+    color: bisque;
+}
+
+#hero p {
+    color: bisque;
+}
+
+#hero button {
+    background-image: url("2024\ Vision\ Board.jpg");
+    background-color: transparent;
+    color: bisque;
+    border: 0;
+}
+
+
+#hero div {
+    background: rgba(14, 14, 11, 0.5);
+
+}
+
+#hero div * {
+    margin: 5%;
+}
+
+/* Example: Change image size */
+.nav-link img {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+#feature .fe-box {
+    width: 150px;
+    text-align: center;
+    padding: 25px 15px;
+    border: 1px solid #cce7d0;
+}
+
+.fe-box- img {
+    width: 40px;
+    height: 40px;
+}
+
+#cloth1 {
+    text-align: center;
+}
+
+#cloth1 .Love-people {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    flex-wrap: wrap;
+
+}
+
+#cloth1 .Love {
+    width: 23%;
+    min-width: 250px;
+    padding: 10px 12px;
+    border: 1px solid #cce7d0;
+    border-radius: 20px;
+    margin: 15px 0;
+    transition: 0.2s ease;
+
+}
+
+#cloth1 .Love:hover {
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+
+}
+
+#cloth1 .Love img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+#cloth1 .Love .Love {
+    text-align: start;
+    padding: 10px 0;
+}
+
+#cloth1 .Love .LOVE span {
+    color: black;
+    font-size: 12px;
+
+}
+
+.section l1 {
+    margin: 40px 0;
+}
+
+button.normal {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: black;
+    background-color: beige;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    transition: 0.2s;
+}
+
+#children {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: green (125, 119, 105, 0.974);
+    width: 100%;
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.container h2 {
+    background-color: green;
+}
+
+footer {
+    background-color: rgb(10, 138, 10);
+}
