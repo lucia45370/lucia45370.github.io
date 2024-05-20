@@ -159,3 +159,10 @@ button.normal {
 footer {
     background-color: rgb(208, 209, 192);
 }
+
+
+
+.rotate-effect:hover {
+    transform: rotate(5deg);
+    /* Rotera 5 grader åt höger */
+}

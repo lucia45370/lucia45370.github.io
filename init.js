@@ -7,16 +7,16 @@ document.getElementsByTagName("header")[0].innerHTML = `
     <div class="collapse  justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link rotate-effect" href="index.html">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="Appareal.html">Appareal</a>
+                <a class="nav-link rotate-effect" href="Appareal.html">Appareal</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="Accesories.html">Accessories</a>
+                <a class="nav-link rotate-effect" href="Accesories.html">Accessories</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="cart.html">
+                <a class="nav-link rotate-effect" href="cart.html">
                     <img src="shopping light brown icon app ios14.jpg">
                 </a>
             </li>
